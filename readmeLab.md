@@ -33,13 +33,15 @@ no se por q he perdido capturas, pero no encuentro las capturas del hacer el pus
 
 ## 3. Hacer un commit y un push
 
-<p>Crea un archivo en la carpeta del repositorio.
+<p>Crea un archivo en la carpeta del repositorio. (creamos un archivo pulsando rn rl icono del folio con una hoja doblada en el explorer de visiual en la carpeta q lo queremos crear,el que cree se llama index y es java)
 
-Añade el archivo al staging.
+<img src="./content/ejemplo1.jpg">
 
-Crea un commit con un mensaje descriptivo.
+Añade el archivo al staging.(scribimos git add .)
 
-Sube los cambios al repositorio en GitHub.<p>
+Crea un commit con un mensaje descriptivo.(creamos escibiendo en la consola "git commit -m" y entre comillas nuestro comentario)
+
+Sube los cambios al repositorio en GitHub.(escribir en la consola git push)
 
 ## 4. Crear una rama
 
